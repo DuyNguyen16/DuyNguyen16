@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duynguyen16" alt="duynguyen16" /></a> </p>
 
-- 🔭 I’m currently working on [Fishy Routes](https://github.com/minhvyha/FishyRoutes)
+- 🔭 I’m currently working on [Weather App]()
 
 - 🌱 I’m currently learning **React**
 
