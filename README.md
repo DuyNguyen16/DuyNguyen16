@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15bulfe2nw7EU_xVaQbHFCfCeAtkwZjrm/view?usp=sharing](https://drive.google.com/file/d/15bulfe2nw7EU_xVaQbHFCfCeAtkwZjrm/view?usp=sharing)
 
-- ⚡ Fun fact **I love to learn new things**
+- ⚡ Fun fact **I love to socialise and thrive to learn new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
