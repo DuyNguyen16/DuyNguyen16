@@ -6,7 +6,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Woof Works]()
+- 🔭 I’m currently working on [Woof Works](https://github.com/DuyNguyen16/woof_works)
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Software Development**
 - 📫 How to reach me **khanhduyn161@gmail.com**
