@@ -6,8 +6,8 @@
 
 ###
 
-- 🔭 I’m currently working on [MERN-Dashboard]()
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on []()
+- 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Software Development**
 - 📫 How to reach me **khanhduyn161@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/15bulfe2nw7EU_xVaQbHFCfCeAtkwZjrm/view?usp=sharing](https://drive.google.com/file/d/15bulfe2nw7EU_xVaQbHFCfCeAtkwZjrm/view?usp=sharing)
