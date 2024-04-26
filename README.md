@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Weather App<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about Software Development<br><br>📫 How to reach me khanhduyn161@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/15bulfe2nw7EU_xVaQbHFCfCeAtkwZjrm/view?usp=sharing<br><br>⚡ Fun fact I love to socialise and thrive to learn new things</p>
+<p align="left">🔭 I’m currently working on Weather App<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about Software Development<br><br>📫 How to reach me khanhduyn161@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/15bulfe2nw7EU_xVaQbHFCfCeAtkwZjrm/view?usp=sharing](https://drive.google.com/file/d/19zSTXRJ3VN6RgG9oBqaVzVeHZe4e1u7x/view?usp=sharing)<br><br>⚡ Fun fact I love to socialise and thrive to learn new things</p>
 
 ###
 
