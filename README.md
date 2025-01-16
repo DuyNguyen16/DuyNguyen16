@@ -146,7 +146,7 @@
         src="https://github-profile-trophy.vercel.app?username=DuyNguyen16&no-bg=false&no-frame=false&theme=dracula&column=3&row=1"
         height="150"
         alt="trophy graph"
-      />><img
+      /><img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=DuyNguyen16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
         height="150"
         alt="languages graph"
