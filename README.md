@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">An Aspiring Software Developer Specialised in AI from Australia</h4>
+<h4 align="center">An Aspiring Software Engineer Specialised in AI from Australia</h4>
 
 ###
 
