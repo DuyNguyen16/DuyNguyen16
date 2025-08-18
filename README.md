@@ -10,12 +10,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/DuyNguyen16/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">Programming Languages and Tools:</h3>
 
 ###
